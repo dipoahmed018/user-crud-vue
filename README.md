@@ -1,35 +1,15 @@
-# user-management
+# User management setup proccess
 
-This template should help get you started developing with Vue 3 in Vite.
+## Requirements:
+1. Node
 
-## Recommended IDE Setup
+## User credentials:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Email=user@gmail.com
+Password=password
 
-## Customize configuration
+## Admin credentials:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Email=admin@gmail.com
+Password=password
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
